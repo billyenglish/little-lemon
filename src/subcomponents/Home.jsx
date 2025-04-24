@@ -21,6 +21,10 @@ const Home = () => {
                     lemon dessert, our menu delivers a delightful culinary journey inspired by the sun-soaked coasts
                     of the Mediterranean.
                 </p>
+
+                <p className="hero-intro-paragraph second-paragraph">
+                    Come for the food, stay for the experience!
+                </p>
             </div>
         </section>
     );
