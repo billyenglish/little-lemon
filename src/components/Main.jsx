@@ -1,7 +1,14 @@
+import Specials from "../subcomponents/Specials";
+import Testimonials from "../subcomponents/Testimonials";
+import About from "../subcomponents/About";
+
+
 const Main = () => {
     return (
         <main>
-            Main
+            <Specials />
+            <Testimonials />
+            <About />
         </main>
     );
 };
