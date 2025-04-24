@@ -1,7 +1,7 @@
 const About = () => {
     return (
         <section>
-            About
+            <h3>About Little Lemon</h3>
         </section>
     );
 };
