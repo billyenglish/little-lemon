@@ -1,7 +1,9 @@
+import Home from "../subcomponents/Home";
+
 const Header = () => {
     return (
         <header>
-            Header
+            <Home />
         </header>
     );
 };
