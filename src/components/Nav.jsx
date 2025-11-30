@@ -1,7 +1,7 @@
 import { useState } from "react"
 import { GiHamburgerMenu } from "react-icons/gi";
 import { CgClose } from "react-icons/cg";
-import navLogo from "../assets/LemonLogo.png"
+import navLogo from "../assets/Logo1.png"
 import "../media_queries/nav_media_query.css"
 
 const navMenu = [
