@@ -1,0 +1,28 @@
+@media screen and (max-width: 320px) {
+
+    nav {
+        padding: 0 1.25rem;
+    }
+
+    .nav_logo {
+        height: 2.2rem;
+        width: auto;
+    }
+
+    .mobile_menu_container {
+        display: flex;
+    }
+
+    .desktop_nav_menu_container {
+        display: none;
+    }
+
+    .nav_menu_container {
+        display: block;
+    }
+
+    .nav_menu_button {
+        font-size: 1.25rem;
+    }
+
+}
