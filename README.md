@@ -1,6 +1,6 @@
 # Little Lemon
 
-<img src="/src/assets/Little_Little_image.png>
+<img src="/src/assets/Little_Little_image.png">
 
 A modern, responsive restaurant web application built with **React**, **TypeScript**, and **Tailwind CSS**.
 Designed to showcase menu items, handle reservations, and provide an engaging user experience.
