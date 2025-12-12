@@ -47,7 +47,7 @@ const Specials = () => {
         <section id="special_section">
             <header id="section_header">
                 <h2 className="section_title">
-                    Chef's Specials
+                    Chef's Lemon Specials
                 </h2>
 
                 <div>
