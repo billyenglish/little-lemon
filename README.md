@@ -9,7 +9,7 @@ Designed to showcase menu items, handle reservations, and provide an engaging us
 
 ## 🛠️ Technologies Used
 
-- **Frontend:** React, TypeScript, Tailwind CSS, HTML, CSS
+- **Frontend:** React, TypeScript, HTML, CSS
 - **State Management:** React Hooks, Context API
 - **Build Tools:** Webpack, npm
 - **Version Control:** Git & GitHub
@@ -28,8 +28,8 @@ Designed to showcase menu items, handle reservations, and provide an engaging us
 
 ## 📸 Screenshots
 
-![Home Page](./screenshots/home.png)  
-![Menu Page](./screenshots/menu.png)  
+![Home Page](./screenshots/home.png)
+![Menu Page](./screenshots/menu.png)
 *(Add more screenshots as needed)*
 
 ---
