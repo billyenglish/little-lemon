@@ -2,6 +2,7 @@ import Nav from "./components/Nav"
 import Homepage from "./components/Homepage"
 import Specials from "./components/Specials"
 import Testimonial from "./components/Testimonial"
+import About from "./components/About"
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
       <Homepage />
       <Specials />
       <Testimonial />
+      <About />
     </>
   )
 }
