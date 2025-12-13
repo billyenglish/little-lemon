@@ -3,6 +3,7 @@ import NikaImage from "../assets/Nika.png";
 import DanielImage from "../assets/Daniel.png"
 import LillyImage from "../assets/Lilly.png"
 import TestimonialsCard from "../subcomponents/TestimonialsCard";
+import "../media_queries/testimonial_query.css"
 
 const TestimonialCard = [
     {

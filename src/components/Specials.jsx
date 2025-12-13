@@ -3,6 +3,7 @@ import SpecialsCard from "../subcomponents/SpecialsCard";
 import Brochetta from "../assets/Brochetta.png"
 import MediterraneanRolls from "../assets/mediterraneanRolls.png"
 import LemonCake from "../assets/lemonDessert.jpg"
+import "../media_queries/specials_query.css"
 
 const SpecialsCards = [
     {
