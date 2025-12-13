@@ -1,0 +1,30 @@
+@media screen and (max-width: 320px) {
+
+    #homepage {
+        padding: 7rem 0;
+        grid-template-columns: 1fr;
+        gap: 4rem;
+    }
+
+    #title {
+        font-size: 1.4rem;
+        text-align: center;
+        line-height: 3rem;
+    }
+
+    #article_paragraph {
+        font-size: 1.1rem;
+        text-align: center;
+    }
+
+    .reserve_table_container {
+        display: flex;
+        justify-content: center;
+    }
+
+    .welcome_image {
+        height: 15rem;
+        width: auto;
+    }
+
+}

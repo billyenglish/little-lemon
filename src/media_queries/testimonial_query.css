@@ -1,0 +1,13 @@
+@media screen and (max-width: 320px) {
+
+    #testimonial_section {
+        min-height: 220vh;
+    }
+
+    .testimonial_cards_container {
+        padding: 2rem 0;
+        flex-wrap: wrap;
+        gap: 2rem;
+    }
+
+}
